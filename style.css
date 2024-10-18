@@ -44,6 +44,7 @@ body{
     position: absolute;
     text-align: left;
     color: 1px solid var(--destaque);
+    border: 1px solid var(--destaque);
     border-radius: 6rem;
     padding: 0.6rem;
     margin: 0.6rem;
