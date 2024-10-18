@@ -95,4 +95,27 @@ criarCartao(
    ' Gonorreia, clamídia e sífilis'
 )
 
+criarCartao(
+    'Ciencias',
+   ' Quem foi a primeira pessoa a viajar no Espaço?',
+   ' Yuri Gagarin.'
+)
 
+criarCartao(
+    'Geografia',
+   ' Que país tem o formato de uma bota?',
+   ' Itália'
+)
+
+
+criarCartao(
+    'Ciencia',
+   ' Quem inventou a lâmpada?',
+   ' Thomas Edison'
+)
+
+criarCartao(
+    'Ciencia',
+   '  Quais são as fases da Lua?',
+   ' Nova, crescente, cheia e minguante.'
+)
