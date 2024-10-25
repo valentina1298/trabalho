@@ -36,7 +36,7 @@ header a{
  #container{
     display: grid;
     gap: 3rem;
-    padding: 2remh;
+    padding: 20px;
  }
 
  .cartao{
