@@ -78,6 +78,4 @@ body{
       border: 2px solid var(--destaque);
    }
 
-   .pergunta-cartao, .resposta-cartao{
-      backface-visibility: hidden;
-   }
+   
